@@ -991,22 +991,22 @@
 	"animator_Azriel":
 	{
 		"DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时, 获得 !M! 点 力量 。",
-		"NAME": "Azriel"
+		"NAME": "阿兹莉尔"
 	},
 	"animator_Giselle":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 。 NL 给予 !M! 层 燃烧 。 NL 对生命值低于 !SV! 点 的敌人造成三倍伤害 。",
-		"NAME": "Giselle"
+		"NAME": "吉赛儿"
 	},
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 弃牌堆中所有牌 。",
-		"NAME": "Tenri Hiiragi"
+		"NAME": "柊天利"
 	},
 	"animator_SirTouchMe":
 	{
 		"DESCRIPTION": "获得 !M! 势不可当 。 NL 造成 !D! 点伤害 。 NL 获得 !B! 点 格挡 。",
-		"NAME": "Sir Touch Me"
+		"NAME": "塔其·米"
 	},
 	"animator_ShikizakiKiki":
 	{
@@ -1016,37 +1016,37 @@
 	"animator_Chomusuke":
 	{
 		"DESCRIPTION": "保留 。 获得 [E] ， 本回合每消耗一张牌 ， 抽 !M! 牌 ( 本回合已消耗 !SV! ) 。 每回合可使用一次 。",
-		"NAME": "Chomusuke"
+		"NAME": "逗之助"
 	},
 	"animator_JeanneDArc":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 。 NL 获得 !M! 点 临时生命 。 NL 随机消耗一个状态牌或诅咒牌 。",
-		"NAME": "Jeanne D'Arc"
+		"NAME": "贞德"
 	},
 	"animator_Hero":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害. NL 抽 !M! 张牌 。 NL 位于牌组中时, 增加获得 [#EFC851]遗物奖励[] 的机会 。",
-		"NAME": "'Hero'"
+		"NAME": "'勇者'"
 	},
 	"animator_Truth":
 	{
 		"DESCRIPTION": "获得 1 点 集中 。 NL 获得 2 点 能量 。 NL 抽 3 张牌 。 NL 获得 4 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。",
-		"NAME": "Truth",
+		"NAME": "真理",
 		"UPGRADE_DESCRIPTION": "获得 2 点 集中 。 NL 获得 3 点 能量 。 NL 抽 4 张牌 。 NL 获得 5 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。"
 	},
 	"animator_Rose":
 	{
 		"DESCRIPTION": "抽 !M! 张牌. NL 重装填 : 造成 !D! 点 穿刺 伤害 。 若目标死亡， 对所有敌人造成 !SV! 点 伤害 。",
-		"NAME": "Rose"
+		"NAME": "萝丝"
 	},
 	"animator_Veldora":
 	{
 		"DESCRIPTION": "获得 !SV! 点 集中 。 NL 激发 所有 充能球 !M! 次 。 [#EFC851]被抽到时[] : 生成 2 个 随机 充能球 。",
-		"NAME": "Veldora"
+		"NAME": "维鲁德拉"
 	},
 	"animator_NivaLada":
 	{
 		"DESCRIPTION": "预热 !SV! : NL 造成 300 点伤害 。 NL 每当你丢弃或消耗牌时 ， 减少 1 层 预热 层数 。",
-		"NAME": "Niva Lada"
+		"NAME": "妮娃·莱妲"
 	}
 }
